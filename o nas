@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>O nas - GPT_SQUAD</title>
+  <style>
+    body { background-color: #0e0e1a; color: white; font-family: 'Segoe UI', sans-serif; margin: 0; }
+    nav { background-color: #1a1a2e; padding: 1rem; text-align: center; }
+    nav a { color: white; margin: 0 1rem; text-decoration: none; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+    section { padding: 2rem; max-width: 800px; margin: auto; }
+    h2 { color: #6c63ff; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Strona główna</a>
+    <a href="o-nas.html">O nas</a>
+    <a href="eventy.html">Eventy</a>
+    <a href="kontakt.html">Kontakt</a>
+  </nav>
+  <section>
+    <h2>O nas</h2>
+    <ul>
+      <li><strong>Lider:</strong> GPT_BOGACZ</li>
+      <li><strong>Duo:</strong> łoscypek1</li>
+      <li><strong>Trio:</strong> FaZe_MALUTKI</li>
+    </ul>
+  </section>
+</body>
+</html>
